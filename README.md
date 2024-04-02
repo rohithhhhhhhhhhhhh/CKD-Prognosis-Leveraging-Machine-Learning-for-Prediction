@@ -1,4 +1,4 @@
-# ML-based Prediction of Chronic Kidney Disease
+# CKD Prognosis: Leveraging Machine Learning for Prediction
 
 This project aims to develop a machine learning model for predicting chronic kidney disease (CKD) based on various clinical parameters.
 
